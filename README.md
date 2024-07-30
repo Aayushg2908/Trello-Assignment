@@ -6,6 +6,7 @@ A Trello clone created using Next js for frontend and Nodejs/express for backend
 ## Without Docker:-
 1. Fill all the environment variables using the .env.example in both frontend and backend.
 2. Run the below commands in the given sequence:-
+
 For Backend:-
 ```
 cd backend
